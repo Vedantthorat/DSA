@@ -5,6 +5,11 @@ class Solution:
 
 
 ''' 
+
+we need to first convert string into integeres and then we convert this integer to binary string 
+we cannot convert directly string to binary
+the 2 is represent that base (2 for binary and if we write here 10 then it become decimal
+
 67. Add Binary
 Solved
 Easy
